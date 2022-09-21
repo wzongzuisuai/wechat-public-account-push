@@ -101,7 +101,7 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "老婆2",
+      name: "老婆1",
       id: "",
       useTemplateId: "",
       province: "",

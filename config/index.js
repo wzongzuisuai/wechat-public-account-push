@@ -87,15 +87,7 @@ export const config = {
         // 距离我的生日
         {"keyword": "ex_day", date: "2023-7-20"},
       ]
-      SLOT_LIST: [
-   
-    {"keyword": "lover_prattle", contents: [
-      "因为太喜欢你，所以看谁都像是情敌。",
-      "申请成为你爱里的永久居民。",
-      "你很傻，你很笨，可我还是很羡慕你，因为你有我",
-      "遇见你，就好像捡到了100斤的运气",
-    ]},
-    },
+    },  
     {
       name: "老婆1",
       id: "",

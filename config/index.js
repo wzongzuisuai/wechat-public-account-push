@@ -82,10 +82,10 @@ export const config = {
       customizedDateList: [
         // 在一起的日子
         {"keyword": "love_day", date: "2022-05-23"},
-        // 结婚纪念日
-        {"keyword": "marry_day", date: "2022-09-09"},
-        // 退伍日
-        {"keyword": "ex_day", date: "2022-09-10"},
+        // 距离你的生日
+        {"keyword": "birthday1_day", date: "2022-12-17"},
+        // 距离我的生日
+        {"keyword": "birthday2_day", date: "2023-7-20"},
       ]
     },
     {

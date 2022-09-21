@@ -60,9 +60,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "VumHquydq4qWl06ZRjTZPV7Zd1UF2FxmrhmD8pLWY_Q",
       // 所在省份
-      province: "四川",
+      province: "陕西",
       // 所在城市
-      city: "成都",
+      city: "咸阳",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-23',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -87,6 +87,14 @@ export const config = {
         // 距离我的生日
         {"keyword": "ex_day", date: "2023-7-20"},
       ]
+      SLOT_LIST: [
+   
+    {"keyword": "lover_prattle", contents: [
+      "因为太喜欢你，所以看谁都像是情敌。",
+      "申请成为你爱里的永久居民。",
+      "你很傻，你很笨，可我还是很羡慕你，因为你有我",
+      "遇见你，就好像捡到了100斤的运气",
+    ]},
     },
     {
       name: "老婆1",
